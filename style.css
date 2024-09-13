@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 100px;
+    background-color: rgb(36, 163, 232);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+input{
+    padding: 20px;
+    font-size: 25px;
+    min-width: 400px;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 15px;
+}
+
+button{
+    padding: 15px 20px;
+    border-radius: 15px;
+    border: 2px solid black;
+    margin-top: 20px;
+    background-color: rgb(0, 80, 124);
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
